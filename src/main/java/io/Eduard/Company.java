@@ -1,7 +1,9 @@
 package io.Eduard;
 
 import java.util.Objects;
-
+/**
+Company class
+ */
 public class Company {
     private final Company parent;
     private final long employeeCount;
