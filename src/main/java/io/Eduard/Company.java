@@ -2,7 +2,7 @@ package io.Eduard;
 
 import java.util.Objects;
 /**
-Company class
+Company clas
  */
 public class Company {
     private final Company parent;
