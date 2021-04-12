@@ -2,7 +2,7 @@ package io.Eduard;
 
 import java.util.Objects;
 /**
-Company Service 
+Company Service Test 
  */
 public class Company {
     private final Company parent;
